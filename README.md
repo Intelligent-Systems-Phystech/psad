@@ -1,11 +1,12 @@
 # Курс по прикладному статистическому анализу данных
 
-Страница курса будет дополняться.
-
-По вопросам пишите на psad@phystech.edu.
 
 
-**Занятие 2 февраля, в 17.00**: https://meet.google.com/gft-ixoc-ygr
+## Объявления
+* Страница курса будет дополняться.
+* [По вопросам пишите на почту.](psad@phystech.edu)
+* [Ссылка на записи.](https://youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
+* [Ссылка на конференцию.](https://meet.google.com/gft-ixoc-ygr)
 
 ## Занятия
 * [Введение: распределения, статистики, оценки, гипотезы](https://github.com/Intelligent-Systems-Phystech/psad/raw/master/slides/lecture_1_intro.pdf)
