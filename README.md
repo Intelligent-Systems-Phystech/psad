@@ -10,7 +10,7 @@
 
 ## Занятия
 * [Введение: распределения, статистики, оценки, гипотезы](https://github.com/Intelligent-Systems-Phystech/psad/raw/master/slides/lecture_1_intro.pdf)
-
+* [Проверка параметрических гипотез](https://github.com/Intelligent-Systems-Phystech/psad/raw/master/slides/lecture_2_ht.pdf)
 
 ## Семинарские занятия
 * [Введение. Базовые методы анализа данных.](seminars/sem1)
