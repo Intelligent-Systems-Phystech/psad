@@ -9,16 +9,18 @@
 * [Ссылка на конференцию.](https://meet.google.com/gft-ixoc-ygr)
 
 ## Занятия
-* [Введение: распределения, статистики, оценки, гипотезы](https://github.com/Intelligent-Systems-Phystech/psad/raw/master/slides/lecture_1_intro.pdf)
-* [Проверка параметрических гипотез](https://github.com/Intelligent-Systems-Phystech/psad/raw/master/slides/lecture_2_ht.pdf)
+* [Введение: распределения, статистики, оценки, гипотезы](slides/lecture_1_intro.pdf)
+* [Проверка параметрических гипотез](slides/lecture_2_ht.pdf)
 
 ## Семинарские занятия
-* [Введение. Базовые методы анализа данных.](seminars/sem1)
+* [Введение. Базовые методы анализа данных.](seminars/sem1/main.ipynb)
+* [Проверка параметрических гипотез.](seminars/sem2/main.ipynb)
 
 ## Еженедельные анкеты
 | Номер   | Анкета                                           | Данные                     | Дедлайн            |
 | :-----: | :----------------------------------------------: | :------------------------: | :----------------: |
 | 1       | [ссылка](https://forms.gle/snfWxa7bFay5rXWUA)    | [ссылка](hometask/sem1)    | 4:59 09.02.2021    |
+| 1       | [ссылка](https://forms.gle/sHNH4mWwPdwe5stc7)    | [ссылка](hometask/sem2)    | 4:59 09.02.2021    |
 
 
 
