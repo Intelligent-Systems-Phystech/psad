@@ -3,7 +3,9 @@
 
 
 ## Объявления
-* Страница курса будет дополняться.
+* **9 марта проверочная работа по занятиям 1-4**
+
+
 * [По вопросам пишите на почту.](psad@phystech.edu)
 * [Ссылка на записи.](https://youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
 * [Ссылка на конференцию.](https://meet.google.com/gft-ixoc-ygr)
