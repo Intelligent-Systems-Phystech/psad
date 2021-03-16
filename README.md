@@ -14,6 +14,7 @@
 * [Проверка непараметрических гипотез](slides/lecture_3_nonparam.pdf)
 * [Множественная проверка гипотез](slides/lecture_4_mht.pdf)
 * [Анализ зависимостей](slides/lecture_5_corr.pdf)
+* [Дисперсионный анализ](slides/lecture_6_anova.pdf)
 
 ## Семинарские занятия
 * [Введение. Базовые методы анализа данных.](seminars/sem1/main.ipynb)
