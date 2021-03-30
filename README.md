@@ -16,6 +16,7 @@
 * [Анализ зависимостей](slides/lecture_5_corr.pdf)
 * [Дисперсионный анализ](slides/lecture_6_anova.pdf)
 * [Линейная регрессия](slides/l_7_linreg.pdf)
+* [Дополнения и обобщения регрессии](slides/l_8_otherreg.pdf)
 
 ## Семинарские занятия
 * [Введение. Базовые методы анализа данных.](seminars/sem1/main.ipynb)
