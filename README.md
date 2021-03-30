@@ -43,6 +43,6 @@
 | 5       | [ссылка](https://forms.gle/7XMT8gnJemK9vPM86)    | [ссылка](hometask/sem5)    | 4:59 16.03.2021    |
 | 6       | [ссылка](https://forms.gle/VdDiqB3HAjjiwJNG7)    | [ссылка](hometask/sem6)    | 4:59 23.03.2021    |
 | 7       | [ссылка](https://forms.gle/eYkxQucNrdPhjPLT7)    | [ссылка](hometask/sem7)    | 4:59 30.03.2021    |
-
+| 7       | [ссылка](https://forms.gle/zP8bcyfVCifJCZYi8)    | [ссылка](hometask/sem8)    | 4:59 06.04.2021    |
 
 
