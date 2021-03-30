@@ -15,6 +15,7 @@
 * [Множественная проверка гипотез](slides/lecture_4_mht.pdf)
 * [Анализ зависимостей](slides/lecture_5_corr.pdf)
 * [Дисперсионный анализ](slides/lecture_6_anova.pdf)
+* [Линейная регрессия](slides/l_7_linreg.pdf)
 
 ## Семинарские занятия
 * [Введение. Базовые методы анализа данных.](seminars/sem1/main.ipynb)
