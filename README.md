@@ -2,7 +2,7 @@
 
 
 ## Объявления
-* Первая лабораторная работа уже доступна по [ссылке](labs/lab1). Дедлайн 23:59 05.04.2021. Сдача лабораторной работы производиться по [ссылке](https://forms.gle/UvT3pi8am6Hvuqw88).  
+* Вторая лабораторная работа уже доступна по [ссылке](labs/lab2). Дедлайн 23:59 11.05.2021. Сдача лабораторной работы производиться по [ссылке](https://forms.gle/c8kfrQY5DXWcgsFw7).  
 
 * [По вопросам пишите на почту.](mailto:psad@phystech.edu)
 * [Ссылка на записи.](https://youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
@@ -30,11 +30,13 @@
 * [Регрессионный анализ.](seminars/sem7/main.ipynb)
 * [Обобщенная регрессия.](seminars/sem8/main.ipynb)
 * [Анализ временных рядов](seminars/sem9/main.ipynb)
+* [Последовательный анализ](seminars/sem10/main.ipynb)
 
 ## Лабораторные работы
 | Номер | Анкета для сдачи лабораторной работы             | Описание                   | Дедлайн            |
 | :---: | :----------------------------------------------: | :------------------------: | :----------------: |
 | 1     | [ссылка](https://forms.gle/UvT3pi8am6Hvuqw88)    | [ссылка](labs/lab1)        | 23:59 05.04.2021   |
+| 2     | [ссылка](https://forms.gle/c8kfrQY5DXWcgsFw7)    | [ссылка](labs/lab2)        | 23:59 11.05.2021   |
 
 ## Еженедельные анкеты
 | Номер   | Анкета                                           | Данные                     | Дедлайн            |
@@ -47,6 +49,7 @@
 | 6       | [ссылка](https://forms.gle/VdDiqB3HAjjiwJNG7)    | [ссылка](hometask/sem6)    | 4:59 23.03.2021    |
 | 7       | [ссылка](https://forms.gle/eYkxQucNrdPhjPLT7)    | [ссылка](hometask/sem7)    | 4:59 30.03.2021    |
 | 8       | [ссылка](https://forms.gle/zP8bcyfVCifJCZYi8)    | [ссылка](hometask/sem8)    | 4:59 06.04.2021    |
-| 9       | [ссылка](https://forms.gle/Rtv7wZdZ9dAekT6fA)    | [ссылка](hometask/sem9)    | 4:59 06.04.2021    |
+| 9       | [ссылка](https://forms.gle/Rtv7wZdZ9dAekT6fA)    | [ссылка](hometask/sem9)    | 4:59 13.04.2021    |
+| 9       | [ссылка](https://forms.gle/                 )    | [ссылка](hometask/sem10)   | 4:59 20.04.2021    |
 
 
