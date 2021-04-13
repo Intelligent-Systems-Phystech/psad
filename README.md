@@ -50,6 +50,6 @@
 | 7       | [ссылка](https://forms.gle/eYkxQucNrdPhjPLT7)    | [ссылка](hometask/sem7)    | 4:59 30.03.2021    |
 | 8       | [ссылка](https://forms.gle/zP8bcyfVCifJCZYi8)    | [ссылка](hometask/sem8)    | 4:59 06.04.2021    |
 | 9       | [ссылка](https://forms.gle/Rtv7wZdZ9dAekT6fA)    | [ссылка](hometask/sem9)    | 4:59 13.04.2021    |
-| 9       | [ссылка](https://forms.gle/                 )    | [ссылка](hometask/sem10)   | 4:59 20.04.2021    |
+| 9       | [ссылка](https://forms.gle/2eZqWXRmGTUS7i6J8)    | [ссылка](hometask/sem10)   | 4:59 20.04.2021    |
 
 
