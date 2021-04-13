@@ -18,6 +18,7 @@
 * [Линейная регрессия](slides/l_7_linreg.pdf)
 * [Дополнения и обобщения регрессии](slides/l_8_otherreg.pdf)
 * [Анализ временных рядов](slides/lecture_9_ts.pdf)
+* [Последовательный анализ](slides/lecture_10_seq.pdf)
 
 ## Семинарские занятия
 * [Введение. Базовые методы анализа данных.](seminars/sem1/main.ipynb)
