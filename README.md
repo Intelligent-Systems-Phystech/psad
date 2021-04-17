@@ -3,7 +3,7 @@
 
 ## Объявления
 * Вторая лабораторная работа уже доступна по [ссылке](labs/lab2). Дедлайн 23:59 11.05.2021. Сдача лабораторной работы производиться по [ссылке](https://forms.gle/c8kfrQY5DXWcgsFw7). 
-* Появилась таблица с оценками по [ссылке](https://docs.google.com/spreadsheets/d/1oKTGL15X1BGjQp2dIMvYn087HjI0ylyeo0HcF_MHgGE/edit?usp=sharing).
+* Появилась таблица с оценками по [ссылке](https://docs.google.com/spreadsheets/d/1oKTGL15X1BGjQp2dIMvYn087HjI0ylyeo0HcF_MHgGE/edit?usp=sharing). Веса пока не окончательные, в таблице приведены предварительные значения.
 
 * [По вопросам пишите на почту.](mailto:psad@phystech.edu)
 * [Ссылка на записи.](https://youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
