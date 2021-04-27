@@ -40,6 +40,7 @@
 * [Анализ временных рядов](seminars/sem9/main.ipynb)
 * [Последовательный анализ](seminars/sem10/main.ipynb)
 * [Причинность](seminars/sem11/main.ipynb)
+* [Марковские модели](seminars/sem12/main.ipynb)
 
 ## Лабораторные работы
 | Номер | Анкета для сдачи лабораторной работы             | Описание                   | Дедлайн            |
@@ -61,4 +62,5 @@
 | 9       | [ссылка](https://forms.gle/Rtv7wZdZ9dAekT6fA)    | [ссылка](hometask/sem9)    | 4:59 13.04.2021    |
 | 10      | [ссылка](https://forms.gle/2eZqWXRmGTUS7i6J8)    | [ссылка](hometask/sem10)   | 4:59 20.04.2021    |
 | 11      | [ссылка](https://forms.gle/2EitGH91u1pkfpxg9)    | [ссылка](hometask/sem11)   | 4:59 29.04.2021    |
+| 12      | [ссылка](https://forms.gle/                 )    | [ссылка](hometask/sem12)   | 4:59 04.05.2021    |
 
