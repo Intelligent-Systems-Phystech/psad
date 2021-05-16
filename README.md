@@ -1,7 +1,7 @@
 # Курс по прикладному статистическому анализу данных
 
 ## Получение зачета 
-TL;DR — [заполняете форму](https://forms.gle/uXXD6KRp2vXtCYjw6), записываетесь на удобное вам время в таблицу (будет). Если текущая оценка --- хор или выше, по желанию получаете автомат.
+TL;DR — [заполняете форму](https://forms.gle/uXXD6KRp2vXtCYjw6), записываетесь на удобное вам время в [таблицу](https://docs.google.com/spreadsheets/d/1TLrO3uuUarhVaoD8N6RbFhKbwB9pSTqlGBQBFB6eLEA/edit?usp=sharing). Если текущая оценка --- хор или выше, по желанию получаете автомат.
 
 Алгоритм:
 1. Посмотреть свою [оценку]((https://docs.google.com/spreadsheets/d/1oKTGL15X1BGjQp2dIMvYn087HjI0ylyeo0HcF_MHgGE/edit?usp=sharing))
@@ -10,7 +10,7 @@ TL;DR — [заполняете форму](https://forms.gle/uXXD6KRp2vXtCYjw6)
 4. Оценка — ниже хора: идете на зачет (максимум +2 балла к оценке)
 5. Оценка не устраивает: идете на зачет (максимум +2 балла к оценке)
 6. Не пришли на зачет и оценка ниже хора: неявка
-7. Запись на зачет будет осуществляться через форму (будет позже)
+7. Запись на зачет осуществляется через [таблицу](https://docs.google.com/spreadsheets/d/1TLrO3uuUarhVaoD8N6RbFhKbwB9pSTqlGBQBFB6eLEA/edit?usp=sharing).
 
 ## Объявления
 
