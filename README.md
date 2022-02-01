@@ -46,4 +46,4 @@
 ## Еженедельные анкеты
 | Номер   | Анкета                                           | Данные                     | Дедлайн            |
 | :-----: | :----------------------------------------------: | :------------------------: | :----------------: |
-| 1       |   [ссылка](https://forms.gle/XsigMqk8PM4XuTcj8)  | [ссылка](https://github.com/Intelligent-Systems-Phystech/psad/tree/master/hometask/sem1/) | 08.02.2022 |
+| 1       |   [ссылка](https://forms.gle/XsigMqk8PM4XuTcj8)  | [ссылка](https://github.com/Intelligent-Systems-Phystech/psad/tree/master/hometask/sem1/) | 04:00 08.02.2022 |
