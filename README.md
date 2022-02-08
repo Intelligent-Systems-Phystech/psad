@@ -5,6 +5,7 @@
 * [Ссылка на видео-конференцию](https://meet.google.com/jdx-pcnw-cfa)
 * [По вопросам пишите на почту.](mailto:psad@phystech.edu)
 * [Ссылка на записи (2021)](https://youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
+* [Оценки за еженедельные задания обновляются тут.](https://docs.google.com/spreadsheets/d/1tJm_iBy_U8eKoPeL29RRAqtJYZKFFSZpEiddKprVxX0/edit?usp=sharing)
 
 
 
