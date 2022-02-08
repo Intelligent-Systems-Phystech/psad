@@ -1,7 +1,7 @@
 # Курс по прикладному статистическому анализу данных
 
 ## Объявления
-
+* [Вебинар от Антиплагиата](https://events.webinar.ru/1176571/9967061)
 * [Ссылка на видео-конференцию](https://meet.google.com/jdx-pcnw-cfa)
 * [По вопросам пишите на почту.](mailto:psad@phystech.edu)
 * [Ссылка на записи (2021)](https://youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
