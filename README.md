@@ -2,7 +2,7 @@
 
 ## Объявления
 * [Вебинар от Антиплагиата](https://events.webinar.ru/1176571/9967061)
-* [Ссылка на видео-конференцию](https://us06web.zoom.us/j/86800620890?pwd=ZThTa1hDSnJnMzlWKzdiUERYQlRIZz09)
+* [Ссылка на видео-конференцию](https://us06web.zoom.us/j/86800620890?pwd=ZThTa1hDSnJnMzlWKzdiUERYQlRIZz09) (Внимание! Ссылка теперь в zoom!)
 * [По вопросам пишите на почту.](mailto:psad@phystech.edu)
 * [Ссылка на записи (2021)](https://youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
 * [Оценки за еженедельные задания обновляются тут.](https://docs.google.com/spreadsheets/d/1tJm_iBy_U8eKoPeL29RRAqtJYZKFFSZpEiddKprVxX0/edit?usp=sharing)
