@@ -48,4 +48,5 @@
 | Номер   | Анкета                                           | Данные                     | Дедлайн            |
 | :-----: | :----------------------------------------------: | :------------------------: | :----------------: |
 | 1       |   [ссылка](https://forms.gle/XsigMqk8PM4XuTcj8)  | [ссылка](https://github.com/Intelligent-Systems-Phystech/psad/tree/master/hometask/sem1/) | 04:00 08.02.2022 |
-| 1       |   [ссылка](https://forms.gle/jpxiEANEFT9p1mo96)  | [ссылка](https://github.com/Intelligent-Systems-Phystech/psad/tree/master/hometask/sem2/) | 04:00 15.02.2022 |
+| 2       |   [ссылка](https://forms.gle/jpxiEANEFT9p1mo96)  | [ссылка](https://github.com/Intelligent-Systems-Phystech/psad/tree/master/hometask/sem2/) | 04:00 15.02.2022 |
+| 3       |   [ссылка](https://forms.gle/c4S4Y4xDv7S982tr9)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem3.ipynb) | 04:00 22.02.2022 |
