@@ -6,6 +6,7 @@
 * [Ссылка на записи (2021)](https://youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
 * [Ссылка на записи (2022)](https://www.youtube.com/playlist?list=PLk4h7dmY2eYHf9yt5K2781NGhLZXv9y_q)
 * [Оценки за еженедельные задания обновляются тут.](https://docs.google.com/spreadsheets/d/1tJm_iBy_U8eKoPeL29RRAqtJYZKFFSZpEiddKprVxX0/edit?usp=sharing)
+* Внимание на следущем (01.03.2022) семинаре будет КР!!! 
 
 
 
@@ -50,3 +51,4 @@
 | 1       |   [ссылка](https://forms.gle/XsigMqk8PM4XuTcj8)  | [ссылка](https://github.com/Intelligent-Systems-Phystech/psad/tree/master/hometask/sem1/) | 04:00 08.02.2022 |
 | 2       |   [ссылка](https://forms.gle/jpxiEANEFT9p1mo96)  | [ссылка](https://github.com/Intelligent-Systems-Phystech/psad/tree/master/hometask/sem2/) | 04:00 15.02.2022 |
 | 3       |   [ссылка](https://forms.gle/c4S4Y4xDv7S982tr9)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem3.ipynb) | 04:00 22.02.2022 |
+| 4       |   [ссылка](https://forms.gle/e5Ni9o9cEizWw6848)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem4.ipynb) | 04:00 07.03.2022 |
