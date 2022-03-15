@@ -57,3 +57,5 @@
 | 2       |   [ссылка](https://forms.gle/jpxiEANEFT9p1mo96)  | [ссылка](https://github.com/Intelligent-Systems-Phystech/psad/tree/master/hometask/sem2/) | 04:00 15.02.2022 |
 | 3       |   [ссылка](https://forms.gle/c4S4Y4xDv7S982tr9)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem3.ipynb) | 04:00 22.02.2022 |
 | 4       |   [ссылка](https://forms.gle/e5Ni9o9cEizWw6848)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem4.ipynb) | 04:00 07.03.2022 |
+| 5       |   [ссылка](https://forms.gle/TXnpJMTgxWTQcEsb9)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem5.ipynb) | 04:00 21.03.2022 |
+| 6       |   [ссылка](https://forms.gle/FgLhCx2eD6PJJ77B6)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem6.ipynb) | 04:00 21.03.2022 |
