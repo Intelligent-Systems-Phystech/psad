@@ -1,6 +1,9 @@
 # Курс по прикладному статистическому анализу данных
 
 ## Объявления
+**Внимание: пара 29 марта переносятся на 1 апреля:**
+  * Лекция: 12.00
+  * Семинар: 13.30 
 * [Ссылка на видео-конференцию](https://us06web.zoom.us/j/86800620890?pwd=ZThTa1hDSnJnMzlWKzdiUERYQlRIZz09) (Внимание! Ссылка теперь в zoom!)
 * [По вопросам пишите на почту.](mailto:psad@phystech.edu)
 * [Ссылка на записи (2021)](https://youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
