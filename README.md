@@ -60,4 +60,8 @@
 | 3       |   [ссылка](https://forms.gle/c4S4Y4xDv7S982tr9)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem3.ipynb) | 04:00 22.02.2022 |
 | 4       |   [ссылка](https://forms.gle/e5Ni9o9cEizWw6848)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem4.ipynb) | 04:00 07.03.2022 |
 | 5       |   [ссылка](https://forms.gle/TXnpJMTgxWTQcEsb9)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem5.ipynb) | 04:00 21.03.2022 |
-| 6       |   [ссылка](https://forms.gle/FgLhCx2eD6PJJ77B6)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem6.ipynb) | 04:00 21.03.2022 |
+| 6       |   [ссылка](https://forms.gle/FgLhCx2eD6PJJ77B6)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem6.ipynb) | 04:00 19.04.2022 |
+| 7       |   [ссылка](https://forms.gle/hwfscb5X2sYJQqDv6)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem7.ipynb) | 04:00 19.04.2022 |
+| 8       |   [ссылка](https://forms.gle/t87kwbL1upKWuTzT8)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem8.ipynb) | 04:00 19.04.2022 |
+| 9       |   [ссылка](https://forms.gle/NKSGF38ziAkA8egS8)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem9.ipynb) | 04:00 19.04.2022 |
+| 10       |   [ссылка](https://forms.gle/ckJsef89S3B415bU8)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem10.ipynb) | 04:00 19.04.2022 |
