@@ -10,6 +10,8 @@
 * [Ссылка на записи (2022)](https://www.youtube.com/playlist?list=PLk4h7dmY2eYHf9yt5K2781NGhLZXv9y_q)
 * [Оценки за еженедельные задания обновляются тут.](https://docs.google.com/spreadsheets/d/1tJm_iBy_U8eKoPeL29RRAqtJYZKFFSZpEiddKprVxX0/edit?usp=sharing)
 
+## Оценка за курс
+ОЦЕНКА (макс 12) = 2 + КР-1 (макс 1.5) +	ЛАБ-1 (макс 2)	+ КР-2 (макс 1.5) + ЛАБ-2 (макс 2)	+ АНКЕТЫ (макс 1)	+ ЗАЧЕТ (макс 2)
 
 
 ## Занятия
