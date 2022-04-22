@@ -3,3 +3,4 @@ matplotlib==2.2.3
 causality
 causalgraphicalmodels
 dowhy
+networkx
