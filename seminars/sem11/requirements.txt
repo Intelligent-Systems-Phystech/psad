@@ -1,6 +1,5 @@
-networkx==2.3
-matplotlib==2.2.3
-causality
-causalgraphicalmodels
-dowhy
-networkx
+networkx>=2.3
+matplotlib>=2.2.3
+causality>=0.0
+causalgraphicalmodels>=0.0
+dowhy>=0.0
