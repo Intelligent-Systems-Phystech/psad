@@ -39,6 +39,7 @@
 * [Последовательный анализ (2021)](seminars/sem10/main.ipynb)
 * [Причинность (2021)](seminars/sem11/main.ipynb)
 * [Марковские модели (2021)](seminars/sem12/main.ipynb)
+* [Введение в байесовскую статистику (2021)](seminars/sem13/main.ipynb)
 
 ## Лабораторные работы
 | Номер | Анкета для сдачи лабораторной работы             | Описание                   | Дедлайн            |
@@ -62,5 +63,7 @@
 | 6       |   [ссылка](https://forms.gle/FgLhCx2eD6PJJ77B6)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem6.ipynb) | 04:00 21.03.2022 |
 | 7       |   [ссылка](https://forms.gle/hwfscb5X2sYJQqDv6)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem7.ipynb) | 04:00 19.04.2022 |
 | 8       |   [ссылка](https://docs.google.com/forms/d/e/1FAIpQLSdKettetVtgzIQ8nspAJEbFcUHs8Ufyf2eo9SsCr6A7UYOIJw/viewform?usp=sf_link)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem8.ipynb) | 04:00 26.04.2022 |
-| 9       |   [ссылка](https://docs.google.com/forms/d/e/1FAIpQLSdOQ4kFIw92skCdJVvIck0YRwqRskmi-4goy1Ez-HPG6xpHbg/viewform?usp=sf_link)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem9.ipynb) | 04:00 01.05.2022 |
-| 10       |   [ссылка](https://docs.google.com/forms/d/e/1FAIpQLSd629c5XL6BCjpKoHmBhQvejQwBhFIy_O88M4aBrwpyCGvMXQ/viewform?usp=sf_link)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem10.ipynb) | 04:00 01.05.2022 |
+| 9       |   [ссылка](https://docs.google.com/forms/d/e/1FAIpQLSdOQ4kFIw92skCdJVvIck0YRwqRskmi-4goy1Ez-HPG6xpHbg/viewform?usp=sf_link)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem9.ipynb) | 04:00 03.05.2022 |
+| 10       |   [ссылка](https://docs.google.com/forms/d/e/1FAIpQLSd629c5XL6BCjpKoHmBhQvejQwBhFIy_O88M4aBrwpyCGvMXQ/viewform?usp=sf_link)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem10.ipynb) | 04:00 03.05.2022 |
+| 11       |   [ссылка](https://docs.google.com/forms/d/e/1FAIpQLSdGK06RqZu1T3O0WMjmIKnd6MaG0YxfZfptPaKrwr9wmFn1_g/viewform?usp=sf_link)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem11.ipynb) | 04:00 10.05.2022 |
+| 12       |   [ссылка](https://docs.google.com/forms/d/e/1FAIpQLSdiSZtoth_duLG_dGare_7UZV7VbHe5t2jEq4JPqREWp5Gz-g/viewform?usp=sf_link)  | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/hometask/sem12.ipynb) | 04:00 10.05.2022 |
