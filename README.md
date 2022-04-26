@@ -5,7 +5,8 @@
 * [По вопросам пишите на почту.](mailto:psad@phystech.edu)
 * [Ссылка на записи (2021)](https://youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
 * [Ссылка на записи (2022)](https://www.youtube.com/playlist?list=PLk4h7dmY2eYHf9yt5K2781NGhLZXv9y_q)
-* [Оценки за еженедельные задания обновляются тут.](https://docs.google.com/spreadsheets/d/1tJm_iBy_U8eKoPeL29RRAqtJYZKFFSZpEiddKprVxX0/edit?usp=sharing)
+** Лабораторна работа 2 уже доступна. Дедлайн 08.05.2022.
+** Контрольна работа 2 состоится 03.05.2022.
 
 ## Оценка за курс
 ОЦЕНКА (макс 12) = 2 + КР-1 (макс 1.5) +	ЛАБ-1 (макс 2)	+ КР-2 (макс 1.5) + ЛАБ-2 (макс 2)	+ АНКЕТЫ (макс 1)	+ ЗАЧЕТ (макс 2)
@@ -45,7 +46,7 @@
 | Номер | Анкета для сдачи лабораторной работы             | Описание                   | Дедлайн            |
 | :---: | :----------------------------------------------: | :------------------------: | :----------------: |
 | 1     | [ссылка](https://forms.gle/mMUtxvQ1fUzPQVgT9)    | [ссылка](labs/lab1)        | 04:00 05.04.2022   |
-| 2     | TODO                                             | [ссылка (2021, будет обновляться)](labs/lab2)        | TODO   |
+| 2     | [ссылка](https://docs.google.com/forms/d/e/1FAIpQLSc9hWgUGTMh3esdUQA8UgdYBpw1ZF-DGKrQBvGdNjWLo6dnMA/viewform?usp=sf_link)    | [ссылка](labs/lab2)        | 04:00 08.05.2022   |
 
 ## Контрольные работы
 | Номер | Анкета для сдачи             | Описание                   | Дедлайн            |
