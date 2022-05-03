@@ -52,6 +52,7 @@
 | Номер | Анкета для сдачи             | Описание                   | Дедлайн            |
 | :---: | :----------------------------------------------: | :------------------------: | :----------------: |
 | 1     | [ссылка](https://forms.gle/KM4grDVvD4VsrJQYA)   | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/tests/test-1.ipynb)        | 20:00 01.03.2022   |
+| 2     | [ссылка](https://docs.google.com/forms/d/e/1FAIpQLSdK7eUrvV4DetOPCvJwgMkAdb8-Aa8TnwFMTrpkN1lThnO89g/viewform?usp=sf_link)   | [ссылка](https://colab.research.google.com/github/Intelligent-Systems-Phystech/psad/blob/master/tests/test-2.ipynb)        | 20:00 03.05.2022   |
 
 ## Еженедельные анкеты
 | Номер   | Анкета                                           | Данные                     | Дедлайн            |
