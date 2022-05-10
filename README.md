@@ -5,12 +5,21 @@
 * [По вопросам пишите на почту.](mailto:psad@phystech.edu)
 * [Ссылка на записи (2021)](https://youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl)
 * [Ссылка на записи (2022)](https://www.youtube.com/playlist?list=PLk4h7dmY2eYHf9yt5K2781NGhLZXv9y_q)
-* **Лабораторна работа 2 уже доступна. Дедлайн 08.05.2022.**
-* **Контрольна работа 2 состоится 03.05.2022.**
+* **Предварительный оценки за семестр по [ссылке](https://docs.google.com/spreadsheets/d/1LI1EuXRv-g5DB0q_2mGFSuZX1A45sr6b9Ht6YYuFFzY/edit?usp=sharing).**
+* Анкета для заполнения по поводу оценки/зачета доступна по [ссылке](https://docs.google.com/forms/d/e/1FAIpQLSc-Wvl16lFvrp9x4Hi-sfWzYRQ3q2X9Q4gAlQm90WxjGbicOQ/viewform?usp=sf_link).
+
+## Алгоритм:
+
+1. Посмотреть свою оценку по [ссылке](https://docs.google.com/spreadsheets/d/1LI1EuXRv-g5DB0q_2mGFSuZX1A45sr6b9Ht6YYuFFzY/edit?usp=sharing).
+2. Заполнить форму по [ссылке](https://docs.google.com/forms/d/e/1FAIpQLSc-Wvl16lFvrp9x4Hi-sfWzYRQ3q2X9Q4gAlQm90WxjGbicOQ/viewform?usp=sf_link).
+3. Оценка — хор или выше (и устраивает): автомат, можно не приходить на зачет.
+4. Оценка — ниже хора: идете на зачет (максимум +2 балла к оценке).
+5. Оценка не устраивает: идете на зачет (максимум +2 балла к оценке).
+6. Не пришли на зачет и оценка ниже хора: неявка.
+7. Запись на зачет осуществляется через таблицу (будет позже, когда узнаем сколько человек идет на зачет).
 
 ## Оценка за курс
 ОЦЕНКА (макс 12) = 2 + КР-1 (макс 1.5) +	ЛАБ-1 (макс 2)	+ КР-2 (макс 1.5) + ЛАБ-2 (макс 2)	+ АНКЕТЫ (макс 1)	+ ЗАЧЕТ (макс 2)
-
 
 ## Занятия
 * [Введение: распределения, статистики, оценки, гипотезы (2022)](slides/lecture_1_intro.pdf)
