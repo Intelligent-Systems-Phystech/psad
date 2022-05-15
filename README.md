@@ -7,6 +7,7 @@
 * [Ссылка на записи (2022)](https://www.youtube.com/playlist?list=PLk4h7dmY2eYHf9yt5K2781NGhLZXv9y_q)
 * **Предварительный оценки за семестр по [ссылке](https://docs.google.com/spreadsheets/d/1LI1EuXRv-g5DB0q_2mGFSuZX1A45sr6b9Ht6YYuFFzY/edit?usp=sharing).**
 * Анкета для заполнения по поводу оценки/зачета доступна по [ссылке](https://docs.google.com/forms/d/e/1FAIpQLSc-Wvl16lFvrp9x4Hi-sfWzYRQ3q2X9Q4gAlQm90WxjGbicOQ/viewform?usp=sf_link).
+* Таблица для записи на зачет доступна по [ссылке](https://docs.google.com/spreadsheets/d/1iox8Zc1NtmyQJvtmR7xNPT3OCQG4XMYHzys03gPKVLU/edit?usp=sharing)
 
 ## Алгоритм:
 
